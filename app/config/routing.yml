@@ -1,3 +1,7 @@
+pinpong:
+    resource: "@PinPongBundle/Resources/config/routing.yml"
+    prefix: /wooppay
+
 app:
     resource: '@AppBundle/Controller/'
     type: annotation
