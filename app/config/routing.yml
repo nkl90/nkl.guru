@@ -1,7 +1,10 @@
+landing:
+    resource: "@LandingBundle/Resources/config/routing.yml"
+
 pinpong:
     resource: "@PinPongBundle/Resources/config/routing.yml"
     prefix: /wooppay
 
-app:
-    resource: '@AppBundle/Controller/'
-    type: annotation
+#app:
+#    resource: '@AppBundle/Controller/'
+#    type: annotation

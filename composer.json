@@ -5,7 +5,8 @@
     "autoload": {
         "psr-4": {
             "AppBundle\\": "src/AppBundle",
-            "PinPongBundle\\": "src/PinPongBundle"
+            "PinPongBundle\\": "src/PinPongBundle",
+            "LandingBundle\\": "src/LandingBundle"
         },
         "classmap": [
             "app/AppKernel.php",
